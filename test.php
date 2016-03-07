@@ -13,5 +13,6 @@ echo "hello2";
 echo "hello3";
 echo "hello4";
 echo "hello7";
+echo "sql fix";
 echo "hello6";
 echo "==========";
